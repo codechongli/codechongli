@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me java
+- 📫 How to reach me qq 3112344038
 
 <!---
 codechongli/codechongli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
